@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💡 Estagiário no <strong>SENAI CIMATEC</strong> na áres de Software(2024 - Atual), com foco no desenvolvimento de aplicações e na gestão e manipulação de bancos de dados.
+  💡 Estagiário no <strong>SENAI CIMATEC</strong> na áres de Software (2024 - Atual), com foco no desenvolvimento de aplicações e na gestão e manipulação de bancos de dados.
 </p>
 
 ---
